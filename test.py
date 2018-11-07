@@ -5,5 +5,6 @@ def f(x)
 
 
 def g(x)
+	"""you have done a good job"""
 	return x**2
 
